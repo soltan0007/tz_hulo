@@ -1,0 +1,6 @@
+/* Add your styles here */
+.slider a {
+    display: inline-block;
+    width: calc(25% - 20px); /* 4 videos in a row with margin */
+    margin: 10px;
+}
